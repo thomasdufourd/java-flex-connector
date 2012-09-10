@@ -1,4 +1,6 @@
 java-flex-connector
 ===================
 
-talking to Flex with Java
+talking to Flex (Melomel) with Java
+
+
